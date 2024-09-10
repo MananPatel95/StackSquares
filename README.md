@@ -104,4 +104,4 @@ private func redo() {
 
 ## Conclusion
 
-This Color Squares Game demonstrates key SwiftUI concepts including state management, custom drawing, and user interaction. The implementation of undo and redo functionality showcases more advanced state handling techniques.
+This Color Squares Game demonstrates key SwiftUI concepts including state management, custom drawing, and user interaction. The implementation of undo and redo functionality showcases more advanced state handling techniques. All in all, I find this makes for a fun interview question to both complete and to protcor for iOS interviews. Give it a try!

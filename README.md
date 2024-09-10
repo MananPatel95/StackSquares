@@ -2,19 +2,25 @@
 
 A SwiftUI-based interactive game where users can place colored squares on a canvas and track their counts.
 
+
+https://github.com/user-attachments/assets/5bcddffc-e978-4ffc-98f7-2f834d250f04
+
+
+
+
 ## Interview Questions
 
 1. **Stack View and Clicking Functionality:**
-   Q: How would you implement a touch-responsive canvas in SwiftUI that allows placing custom views (like colored squares) at the touch location?
+   How would you implement a touch-responsive canvas in SwiftUI that allows placing custom views (like colored squares) at the touch location?
 
-2. **Number Counting:**
-   Q: Explain how you would maintain a count of items by category (like color) and ensure this count is updated correctly when items are added or removed.
+3. **Number Counting:**
+   Explain how you would maintain a count of items by category (like color) and ensure this count is updated correctly when items are added or removed.
 
-3. **Undo Tab Item:**
-   Q: Describe the data structures and logic you would use to implement an undo feature in a drawing or game app. How would you ensure that the app state is correctly reverted?
+4. **Undo Tab Item:**
+   Describe the data structures and logic you would use to implement an undo feature in a drawing or game app. How would you ensure that the app state is correctly reverted?
 
-4. **Redo Tab Item:**
-   Q: After implementing an undo feature, how would you add a redo functionality? What additional considerations are there when implementing redo alongside undo?
+5. **Redo Tab Item:**
+   After implementing an undo feature, how would you add a redo functionality? What additional considerations are there when implementing redo alongside undo?
 
 ## Features
 
